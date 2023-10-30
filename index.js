@@ -1,1 +1,0 @@
-const { createSVG } = require('svg-builder');
